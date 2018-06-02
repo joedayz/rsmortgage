@@ -8,7 +8,7 @@
 	<version>1.0</version>
 	<packaging>jar</packaging>
 
-	<name>udemy-rsmortgage-person-service-new</name>
+	<name>rsmortgage-person-service-new</name>
 	<description>RSMortgage Spring Cloud Service Discovery For High Availability </description>
 
 	<parent>
