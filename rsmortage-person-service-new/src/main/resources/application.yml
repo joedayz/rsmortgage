@@ -60,7 +60,7 @@ spring:
     driverClassName: com.mysql.jdbc.Driver
     url: jdbc:mysql://localhost/rsmortgage
     username: root
-    password: root
+    password: enterprise
 
   jpa:
     hibernate:
