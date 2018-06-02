@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import com.rollingstone.domain.Customer;
 
 
-@FeignClient("udemy-rsmortgage-customer-service")
+@FeignClient("rsmortgage-customer-service")
 interface CustomerClient {
 	
 	

@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.rollingstone</groupId>
-	<artifactId>udemy-rsmortgage-customer-account-service-latest</artifactId>
+	<artifactId>rsmortgage-customer-account-service-latest</artifactId>
 	<version>1.0</version>
 	<packaging>jar</packaging>
 	<description>Example project demonstrating Spring Cloud based Customer Account Microservice as a REST API</description>

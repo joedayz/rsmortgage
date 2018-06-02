@@ -11,4 +11,4 @@ spring:
           uri: https://github.com/joedayz/rsmortgage-config-repository
           searchPaths: rsmortgage-customer-service,rsmortgage-customer-account-service
           username: joedayz
-          password: password123
+          password: Devoxx2017Code
